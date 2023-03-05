@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f661309dff66d6841ae6e27cada35847
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {fileID: 11400000, guid: f1d9fa4ff1e86e84c9953db98ae3416f, type: 2}
+  - saveManager: {fileID: 11400000, guid: 0f427c00b19c16349bc5510ba3136eb0, type: 2}
+  - sceneManager: {fileID: 11400000, guid: 4a9838eac00712b47a15f24ddb526d94, type: 2}
+  - levelManager: {fileID: 11400000, guid: c8c56a7f1fd55034f982a8fdf2d92b79, type: 2}
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

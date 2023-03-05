@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13d16eae35c6b9e4b8eeafa1c08215db, type: 3}
+  m_Name: SoundManager
+  m_EditorClassIdentifier: 
+  gamePaused: {fileID: 11400000, guid: d8dc3cef9c5375e4a8f81e3bfc95ccf6, type: 2}
+  soundWorkerPrefab: {fileID: 6660387099917091304, guid: 3b88061dbfcb2a946a3ac4eeab5768d8,
+    type: 3}
+  workingWorkerSet: {fileID: 11400000, guid: 009d9f5d0f294c14ea56aab34835d25a, type: 2}
+  availableWorkerSet: {fileID: 11400000, guid: 435efd6549060ba40b2d33d246fbfd52, type: 2}

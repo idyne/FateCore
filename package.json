@@ -1,0 +1,19 @@
+{
+    "name": "com.FateGames.FateCore",
+    "version": "1.0.0",
+    "displayName": "Fate Core",
+    "description": "This is the core package of the Fate Games studio.",
+    "unity": "2021.3",
+    "unityRelease": "16f1",
+    "dependencies": {
+
+    },
+    "keywords": [
+
+    ],
+    "author": {
+        "name": "Fate Games",
+        "email": "contact@fategs.com",
+        "url": "https://www.fategs.com"
+    }
+}
